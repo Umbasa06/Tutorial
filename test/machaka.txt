@@ -1,3 +1,2 @@
 une ligne01
 une ligne02
-une ligne03
